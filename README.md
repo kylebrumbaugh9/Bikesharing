@@ -7,7 +7,7 @@ The purpose of this analysis was to look at the data for New York City's CitiBik
 
 ### Technology used
 
-I used Jupyter Notebook to update a .csv file and then utilized Tableau Public to import the data and build the visualizations. 
+I used Jupyter Notebook to update a .csv file and then utilized Tableau Public to import the data and build the visualizations. I did not upload the .csv files to GitHub as they were over the file size limit. I can provide them if you need them.
 
 [link to Tableau] = https://public.tableau.com/app/profile/kyle.brumbaugh/viz/Module15Challenge_16755456407120/NYCCitiBikeUsageandGender#1
 
