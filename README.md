@@ -9,6 +9,8 @@ The purpose of this analysis was to look at the data for New York City's CitiBik
 
 I used Jupyter Notebook to update a .csv file and then utilized Tableau Public to import the data and build the visualizations. 
 
+[link to Tableau] = https://public.tableau.com/app/profile/kyle.brumbaugh/viz/Module15Challenge_16755456407120/NYCCitiBikeUsageandGender#1
+
 ## Results
 
 ![image](https://user-images.githubusercontent.com/114685724/216790227-e29ccbb4-e1b7-4357-ba1f-725b33d083c2.png)
